@@ -56,4 +56,4 @@ Baks Byambaa
 
 ## License
 
-MIT 
+MIT
